@@ -10,26 +10,26 @@ We reserve the right to modify these Terms at any time. Any changes will be effe
 
 ## 3. Subscription and Billing
 
-    Subscription: Gxrou PG offers a subscription-based service. By subscribing, you gain access to game cheats/modifications and related content.
-    Billing: Subscription fees are billed on a recurring basis, as specified at the time of subscription. You authorize us to charge the subscription fee to your chosen payment method.
+Subscription: Gxrou PG offers a subscription-based service. By subscribing, you gain access to game cheats/modifications and related content.
+Billing: Subscription fees are billed on a recurring basis, as specified at the time of subscription. You authorize us to charge the subscription fee to your chosen payment method.
 
 ## 4. Prohibited Activities
 
-    No Leaking, Cracking, or Bruteforcing: You agree not to leak, crack, or bruteforce access to the game cheats/modifications provided through Gxrou PG.
+No Leaking, Cracking, or Bruteforcing: You agree not to leak, crack, or bruteforce access to the game cheats/modifications provided through Gxrou PG.
 
 ## 5. Data Collection
 
-    IP Addresses: We may collect and store your IP address for security purposes, to prevent unauthorized access and protect the integrity of Gxrou PG.
-    Device Information: We may also collect and store device names and device versions for security purposes.
+IP Addresses: We may collect and store your IP address for security purposes, to prevent unauthorized access and protect the integrity of Gxrou PG.
+Device Information: We may also collect and store device names and device versions for security purposes.
 
 ## 6. Account Reselling Market
 
-    Responsibility: Any accounts sold through the Gxrou PG account reselling market are the sole responsibility of the purchaser. We do not guarantee the functionality or legitimacy of any accounts sold.
-    Developer Bans: Accounts sold through the reselling market can be banned by game developers at any time. We are not responsible for any consequences arising from such bans.
+Responsibility: Any accounts sold through the Gxrou PG account reselling market are the sole responsibility of the purchaser. We do not guarantee the functionality or legitimacy of any accounts sold.
+Developer Bans: Accounts sold through the reselling market can be banned by game developers at any time. We are not responsible for any consequences arising from such bans.
 
 ## 7. Limitation of Liability
 
-    No Responsibility for Bans: Gxrou PG is not responsible for any bans or penalties imposed by game developers or publishers as a result of your use of the game cheats/modifications provided through the service.
+No Responsibility for Bans: Gxrou PG is not responsible for any bans or penalties imposed by game developers or publishers as a result of your use of the game cheats/modifications provided through the service.
 
 ##8. Termination
 We reserve the right to terminate or suspend your access to Gxrou PG at any time, without prior notice, for any reason, including if we believe you have violated these Terms.
