@@ -31,7 +31,7 @@ Developer Bans: Accounts sold through the reselling market can be banned by game
 
 No Responsibility for Bans: Gxrou PG is not responsible for any bans or penalties imposed by game developers or publishers as a result of your use of the game cheats/modifications provided through the service.
 
-##8. Termination
+## 8. Termination
 We reserve the right to terminate or suspend your access to Gxrou PG at any time, without prior notice, for any reason, including if we believe you have violated these Terms.
 
 ## 9. Governing Law
